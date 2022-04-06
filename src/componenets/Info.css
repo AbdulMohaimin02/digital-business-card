@@ -1,0 +1,49 @@
+img{
+    width: 100%;
+    border-top-left-radius: 1rem;
+    border-top-right-radius: 1rem;
+    margin: 0%;
+    padding: 0%;
+}
+
+h2{
+    text-align: center;
+    color: white;
+    font-weight: 500;
+}
+
+h4{
+    color: rgb(243, 209, 146);
+    font-weight: 400;
+    text-align: center;
+
+}
+
+h6{
+    color: white;
+    text-align: center;
+
+}
+
+.info-buttons{
+    display: flex;
+    justify-content: space-between;
+    padding: 1rem;
+}
+
+button{
+    width: 8rem;
+    height: 2.2rem;
+    border-radius: 0.5rem;
+}
+
+.linkedin-button{
+    background-color: rgb(74, 169, 247);
+    color: white;
+    border:1px rgb(74, 169, 247) solid;
+}
+
+.email-button{
+    border:1px rgb(255, 255, 255) solid;
+
+}

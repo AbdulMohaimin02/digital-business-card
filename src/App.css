@@ -1,0 +1,21 @@
+
+
+
+div.container{
+    background-color: rgb(42, 44, 45);
+    height: 100vh;
+    box-sizing: border-box;
+}
+
+div.card-view{
+    height: 750px;
+    width: 300px;
+    background-color: rgb(23, 25, 27);
+    position: absolute;
+    top: 50%;
+    transform: translate(170%, -50%);
+    padding: 10px;
+    border-radius: 1rem;
+}
+
+
