@@ -11,8 +11,7 @@ function App() {
         <div className="card-view">
           <Info />
           <About />
-          <Footer />
-          
+          <Footer /> 
         </div>
     </div>
   );
