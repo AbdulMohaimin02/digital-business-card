@@ -1,7 +1,7 @@
 # Digital Business Card
 
 ## Brief
-This is a static react project built independently from a refrence image.
+This is a static react project built independently from a refrence image. Project Dificulty : Simple
 
 ## Screenshot
 ![](images/digital-business-card.png)
